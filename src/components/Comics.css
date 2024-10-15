@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#favorito {
+    position: sticky;
+    top: 0;
+    float: right;
+    width: fit-content;
+    padding: 10px;
+    text-align: center;
+}
+#favorito #titulo {
+    background-color: white;
+    margin-top: 0;
+}
